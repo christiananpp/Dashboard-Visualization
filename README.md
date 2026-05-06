@@ -8,7 +8,7 @@ This repository contains my data visualization projects from both academic and i
 
 ### 📊 Looker Studio - Litbang Kompas 
 - Public Perception Survey Dashboard
-- Legislative Regulations Analytics Dashboard
+- Regulations Analytics Dashboard
 - 📁 `/litbang-kompas-dashboard`
 
 ---
