@@ -22,7 +22,9 @@ This dashboard analyzes survey data related to public perception on selected top
 ## Key Insights
 - Public sentiment is generally neutral to slightly positive  
 - Demographic factors influence perception patterns  
-- Survey visualization helps uncover behavioral trends  
+- Survey visualization helps uncover behavioral trends
+
+Link : https://datastudio.google.com/reporting/200f3496-fe48-4998-82cb-23a04a289302
 
 ---
 
@@ -45,6 +47,8 @@ This dashboard focuses on analyzing data related to regulations and legal framew
 - Regulatory data can be structured for better accessibility  
 - Categorization improves clarity of legal information  
 - Visualization supports easier policy understanding  
+
+Link : https://datastudio.google.com/reporting/f1681893-c2ce-4887-ba86-73e38d5f492c
 
 ---
 
