@@ -37,9 +37,9 @@ This dashboard focuses on analyzing data related to regulations and legal framew
 - Regulation Source Distribution Analytics Dashboard
 
 ### Preview
-![Regulation Dashboard 1](dashboard_regulation_1.png)
-![Regulation Dashboard 1](dashboard_regulation_1.png)
-![Regulation Dashboard 1](dashboard_regulation_1.png)
+![Regulation Dashboard 1](PPU1.jpeg)
+![Regulation Dashboard 1](PPU2.jpeg)
+![Regulation Dashboard 1](PPU3.jpeg)
 
 ## Key Insights
 - Regulatory data can be structured for better accessibility  
