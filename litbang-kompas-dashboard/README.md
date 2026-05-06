@@ -12,11 +12,12 @@ This dashboard analyzes survey data related to public perception on selected top
 ## Dashboards
 - Survey overview and response distribution
 - Public perception analysis
-- Demographic insights
+- Interviewer analysis
 
 ### Preview
-![Perception Dashboard 1](dashboard_perception_1.png)
-![Perception Dashboard 2](dashboard_perception_2.png)
+![Perception Dashboard 1](survey1.jpeg)
+![Perception Dashboard 2](survey2.jpeg)
+![Perception Dashboard 2](survey3.jpeg)
 
 ## Key Insights
 - Public sentiment is generally neutral to slightly positive  
@@ -31,11 +32,13 @@ This dashboard analyzes survey data related to public perception on selected top
 This dashboard focuses on analyzing data related to regulations and legal frameworks. It helps visualize structured information about regulatory trends and categorization.
 
 ## Dashboards
-- Regulation overview
-- Classification of regulatory data
-- Trend analysis of regulatory topics
+- Regulation Type Distribution & Volume Analysis Dashboard
+- Regulation Title and Year Trend Analysis Dashboard
+- Regulation Source Distribution Analytics Dashboard
 
 ### Preview
+![Regulation Dashboard 1](dashboard_regulation_1.png)
+![Regulation Dashboard 1](dashboard_regulation_1.png)
 ![Regulation Dashboard 1](dashboard_regulation_1.png)
 
 ## Key Insights
@@ -48,7 +51,8 @@ This dashboard focuses on analyzing data related to regulations and legal framew
 # 🛠️ Tools Used
 - Looker Studio
 - Excel / Data preprocessing tools
-- Survey & regulatory datasets from Litbang Kompas
+- Google Sheets
+- Survey datasets from Litbang Kompas
 
 ---
 
