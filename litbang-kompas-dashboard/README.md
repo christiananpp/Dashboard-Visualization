@@ -1,65 +1,61 @@
-# Public Perception Survey Dashboard – Litbang Kompas
+# Data Visualization Projects – Litbang Kompas Internship
 
-This project was developed during my internship at Litbang Kompas. It focuses on analyzing public perception survey data using data visualization techniques to extract meaningful insights for research and reporting purposes.
-
----
-
-## 📊 Project Overview
-
-This dashboard presents an analysis of survey responses related to public perception on selected topics. The goal is to transform raw survey data into clear, structured, and actionable insights.
-
-The visualization helps identify patterns in:
-- Public opinion distribution
-- Demographic-based differences in responses
-- Overall sentiment trends
+This repository contains data visualization dashboards developed during my internship at Litbang Kompas. The projects focus on transforming survey and regulatory data into meaningful insights using Looker Studio.
 
 ---
 
-## 📈 Dashboards Included
+# 📊 1. Public Perception Survey Dashboard
 
-### 1. Survey Overview
-Provides a general summary of survey responses and overall distribution.
+## Overview
+This dashboard analyzes survey data related to public perception on selected topics. It aims to identify patterns in opinions, sentiment distribution, and demographic differences.
 
-![Dashboard 1](dashboard_1.png)
+## Dashboards
+- Survey overview and response distribution
+- Public perception analysis
+- Demographic insights
 
----
+### Preview
+![Perception Dashboard 1](dashboard_perception_1.png)
+![Perception Dashboard 2](dashboard_perception_2.png)
 
-### 2. Public Perception Analysis
-Focuses on how respondents perceive specific issues or topics.
-
-![Dashboard 2](dashboard_2.png)
-
----
-
-### 3. Demographic Insights
-Shows how perception varies across different demographic groups.
-
-![Dashboard 3](dashboard_3.png)
+## Key Insights
+- Public sentiment is generally neutral to slightly positive  
+- Demographic factors influence perception patterns  
+- Survey visualization helps uncover behavioral trends  
 
 ---
 
-## 🧠 Key Insights
+# ⚖️ 2. Regulatory & Legislative Dashboard
 
-- Overall public sentiment tends to be neutral to slightly positive
-- Demographic factors significantly influence perception patterns
-- Visualization helps uncover hidden trends in survey data
+## Overview
+This dashboard focuses on analyzing data related to regulations and legal frameworks. It helps visualize structured information about regulatory trends and categorization.
+
+## Dashboards
+- Regulation overview
+- Classification of regulatory data
+- Trend analysis of regulatory topics
+
+### Preview
+![Regulation Dashboard 1](dashboard_regulation_1.png)
+
+## Key Insights
+- Regulatory data can be structured for better accessibility  
+- Categorization improves clarity of legal information  
+- Visualization supports easier policy understanding  
 
 ---
 
-## 🛠️ Tools Used
-
+# 🛠️ Tools Used
 - Looker Studio
-- Data cleaning & preprocessing (Excel / Sheets)
-- Survey dataset from Litbang Kompas
+- Excel / Data preprocessing tools
+- Survey & regulatory datasets from Litbang Kompas
 
 ---
 
-## 🎯 Objective
-
-To support research and decision-making processes by transforming survey data into meaningful and visually interpretable insights.
+# 🎯 Objective
+To transform complex survey and regulatory datasets into clear, structured, and insightful visualizations that support research and decision-making processes.
 
 ---
 
-## 📌 Context
-
-This project was completed as part of my internship experience at Litbang Kompas, focusing on data visualization and public opinion analysis.
+# 📌 Context
+Developed during my internship at Litbang Kompas, focusing on data visualization, public policy insights, and survey analytics.
