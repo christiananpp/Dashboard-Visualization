@@ -1,4 +1,4 @@
-# Data Visualization Portfolio
+# Dashboard Visualization 
 
 This repository contains my data visualization projects from both academic and internship experience.
 
